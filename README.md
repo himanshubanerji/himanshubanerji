@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshubanerji" alt="himanshubanerji" /></a> </p>
 
+- 👨‍💻 My current portfolio [https://himanshubanerji.github.io/](https://himanshubanerji.github.io/)
+
 - 🌱 I’m currently learning **JavaScript**
 
 - 🤝 I’m looking for help with **custom roms**
-
-- 👨‍💻 My current portfolio [https://himanshubanerji.github.io/](https://himanshubanerji.github.io/)
 
 - 💬 Ask me about **vim, linux/unix, Data Structures & Algorithms**
 
