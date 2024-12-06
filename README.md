@@ -7,9 +7,11 @@
 
 - 👨‍💻 My current portfolio [https://himanshubanerji.github.io/](https://himanshubanerji.github.io/)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Go**
+  
+- 🤝 Looking for help configuring my **neovim config**
 
-- 🤝 I’m looking for help with **custom roms**
+- 🌼 Do you use **custom roms** ?
 
 - 💬 Ask me about **vim, linux/unix, Data Structures & Algorithms**
 
