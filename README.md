@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshubanerji" alt="himanshubanerji" /></a> </p>
 
-- 👨‍💻 My current portfolio [https://himanshubanerji.github.io/](https://himanshubanerji.github.io/)
+- 👨‍💻 My Github **is** my current portfolio
 
 - 🌱 I’m currently learning **Go**
   
@@ -18,7 +18,7 @@
 - 📫 Drop me a message at **heman.ehv@gmail.com**
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-banerji-a7085521a/) [![Leetcode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=leetcode&logoColor=white&color=gold)](https://www.leetcode.com/himanshubanerji) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshubanerji) [![Leetcode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=leetcode&logoColor=white&color=gold)](https://www.leetcode.com/himanshubanerji) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
